@@ -40,7 +40,7 @@ Please do take a moment to look at an existing project to view how best to integ
 info.json
 ```
 {
-    "name": "CROX Token",
+    "name": "CroxSwap",
     "website": "https://croxswap.com/",
     "telegram": "https://t.me/croxswap",
     "discord": "https://discord.gg/croxswap",
