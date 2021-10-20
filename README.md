@@ -16,7 +16,7 @@ the projects have to be sound, with information available, and non-minimal circu
 ### Requirements
 Requirements: 300 holders and 1000 transactions. 
 
-There is no processing fee for partnered tokens to get listed but we would encourage you to provide a buy link to our DEX on your website . **FREE!**
+There is no processing fee for partnered tokens to get listed but we encourage you to provide a buy link to our DEX on your website . **FREE!**
 
 
 
