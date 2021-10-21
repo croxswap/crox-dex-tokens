@@ -1,0 +1,41 @@
+{
+    "name": "DefilyToken",
+    "website": "https://defily.io/",
+    "description": "A Full-Stack Cross-Chain DEFI Platform for Staking and Yield Farming",
+    "explorer": "https://bscscan.com/address/0xD675fF2B0ff139E14F86D87b7a6049ca7C66d76e",
+    "type": "BEP20",
+    "symbol": "DFL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xD675fF2B0ff139E14F86D87b7a6049ca7C66d76e",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/defilyfinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/defilyfinance"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.defily.io/"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/DefilyFinance/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/xUU85venae"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/defily"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/DefilyFinance"
+        }
+    ]
+}
