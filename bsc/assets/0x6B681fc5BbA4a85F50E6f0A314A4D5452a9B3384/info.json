@@ -5,11 +5,11 @@
   "twitter": "https://twitter.com/PinocchuW",
   "discord": "https://discord.gg/KAwmrURWDX",
   "description": "PINO is the token built to power Pinocchu's ecosystem and reward content creators. The more you learn, the more you earn.",
-  "explorer": "https://bscscan.com/token/0x6b681fc5bba4a85f50e6f0a314a4d5452a9b3384",
+  "explorer": "https://bscscan.com/token/0x6B681fc5BbA4a85F50E6f0A314A4D5452a9B3384",
   "type": "BEP20",
   "symbol": "PINO",
   "decimals": 18,
   "slippage": 0.5,
   "status": "active",
-  "id": "0x6b681fc5bba4a85f50e6f0a314a4d5452a9b3384"
+  "id": "0x6B681fc5BbA4a85F50E6f0A314A4D5452a9B3384"
 }
