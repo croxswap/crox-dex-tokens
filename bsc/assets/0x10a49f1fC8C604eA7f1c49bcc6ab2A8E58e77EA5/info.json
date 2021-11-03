@@ -1,0 +1,15 @@
+{
+  "name": "BuffaloSwap",
+  "website": "https://www.buffaloswap.org",
+  "telegram": "https://t.me/buffaloswap",
+  "twitter": "https://twitter.com/BuffaloswapDex",
+  "discord": "",
+  "description": "BuffaloSwap - Yield farming, Gaming, NFTs & Swap on the BSC",
+  "explorer": "https://bscscan.com/token/0x10a49f1fC8C604eA7f1c49bcc6ab2A8E58e77EA5",
+  "type": "BEP20",
+  "symbol": "BUFF",
+  "decimals": 18,
+  "slippage": 3,
+  "status": "active",
+  "id": "0x10a49f1fC8C604eA7f1c49bcc6ab2A8E58e77EA5"
+}
