@@ -1,0 +1,15 @@
+{
+  "name": "Gremlins.Finance",
+  "website": "https://gremlins.finance/",
+  "telegram": "https://t.me/GremlinsOfficial",
+  "twitter": "https://twitter.com/GremlinsFinance",
+  "discord": "",
+  "description": "GREM is a decentralized community token with a hybrid dividend mechanism. Simply hold $GREM and yield $BTC.",
+  "explorer": "https://bscscan.com/address/0x8c458EE3ebc5DaDFE5E0A3Daae47e3C2Aa62FF1c",
+  "type": "BEP20",
+  "symbol": "GREM",
+  "decimals": 18,
+  "slippage": 14,
+  "status": "active",
+  "id": "0x8c458EE3ebc5DaDFE5E0A3Daae47e3C2Aa62FF1c"
+}
