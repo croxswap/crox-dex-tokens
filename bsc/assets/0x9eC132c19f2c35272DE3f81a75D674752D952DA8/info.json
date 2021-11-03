@@ -1,0 +1,15 @@
+{
+  "name": "RedBuff",
+  "website": "https://red.buffaloswap.org",
+  "telegram": "https://t.me/buffaloswap",
+  "twitter": "https://twitter.com/BuffaloswapDex",
+  "discord": "",
+  "description": "RedBuff - BuffaloSwap RED token. Empowers the BuffaloSwap token!",
+  "explorer": "https://bscscan.com/token/0x9eC132c19f2c35272DE3f81a75D674752D952DA8",
+  "type": "BEP20",
+  "symbol": "REDBUFF",
+  "decimals": 18,
+  "slippage": 4,
+  "status": "active",
+  "id": "0x9eC132c19f2c35272DE3f81a75D674752D952DA8"
+}
