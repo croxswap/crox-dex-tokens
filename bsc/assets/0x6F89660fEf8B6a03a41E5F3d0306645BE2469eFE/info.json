@@ -1,0 +1,15 @@
+{
+    "name": "DarkMagick",
+    "website": "https://darkmagick.co/",
+    "telegram": "https://t.me/darkmagickofficial",
+    "discord": "",
+    "twitter": "https://twitter.com/darkmagickk",
+    "description": "DarkMagick is an action based p2e RPG with an NFT and tokenized ecosystem. Play with your own unique NFT Hero in the game and earn NFT collectibles that you can stake to earn $DMGK passively. Come play through the solo adventure or online dungeon crawling with friends in our Magick Metaverse.",
+    "explorer": "https://bscscan.com/token/0x6f89660fef8b6a03a41e5f3d0306645be2469efe",
+    "type": "BEP20",
+    "symbol": "DMGK",
+    "decimals": 18,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x6F89660fEf8B6a03a41E5F3d0306645BE2469eFE"
+   }
